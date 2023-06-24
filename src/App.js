@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://genshin.hoyoverse.com/es/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hola bienvenida
+          Ven te enseñare un mundo totalmente diferente
         </a>
       </header>
     </div>
