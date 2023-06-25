@@ -6,9 +6,9 @@ import reportWebVitals from './reportWebVitals';
 import MyComponent from './Mycomponent';
 import MyTable from './MyTable';
 import MyName from './MyName';
-import Foto from './Foto';
-
-
+import RedPanda from './redPanda';
+import Paisaje from './paisaje';
+import Mond from './Mond';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -16,9 +16,9 @@ root.render(
     <App />
     <MyName/>
     <MyComponent />
-    <MyTable />
-    <Foto />
-
+    <RedPanda />
+    <Paisaje />
+    <Mond />
   </React.StrictMode>
 );
 
