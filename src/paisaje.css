@@ -1,4 +1,15 @@
 .mond{
     font: small-caps 100%/200% serif;
     text-align: center;
+    background-color: rgb(75, 198, 239);
+    font-size: calc(20px + 2vmin);
+}
+
+.elemento {
+    height: 500px;
+    
+}
+.textoa{
+    font-size: calc(50px + 2vmin);
+    font: small-caps 100%/200% serif;
 }

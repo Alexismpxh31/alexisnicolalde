@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href=""
+          href="https://genshin.hoyoverse.com/es/"
           target="_blank"
           rel="noopener noreferrer"
         >

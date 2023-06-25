@@ -8,8 +8,8 @@ import MyTable from './MyTable';
 import MyName from './MyName';
 import RedPanda from './redPanda';
 import Paisaje from './paisaje';
-import Mond from './Mond';
-
+import DesMond from './DesMond';
+import Final from './final';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
@@ -18,7 +18,8 @@ root.render(
     <MyComponent />
     <RedPanda />
     <Paisaje />
-    <Mond />
+    <DesMond/>
+    <Final />
   </React.StrictMode>
 );
 

@@ -1,0 +1,11 @@
+.fin-header{
+    font: small-caps 100%/200% serif;
+  text-align: center;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(50px + 2vmin);
+  color: rgb(0, 0, 0);
+}

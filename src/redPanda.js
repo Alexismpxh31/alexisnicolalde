@@ -1,8 +1,8 @@
 import './redPanda.css';
 const redPanda = {
-    src: 'https://gamersrd.com/wp-content/uploads/2021/12/Las-filtraciones-recientes-de-Genshin-Impact-revela-mas-detalles-sobre-el-mapa-completo-de-Teyvat-GamersRD.jpg',
+    src: 'https://akibamarket.com/wp-content/uploads/2021/06/Camiseta-Genshin-Impact-Elementos-Sucio.jpg',
     alt: 'Red Panda',
-    width: '1000px'
+    width: '500px'
   };
   
   function RedPanda(){
