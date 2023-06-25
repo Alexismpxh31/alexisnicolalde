@@ -4,12 +4,21 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import MyComponent from './Mycomponent';
+import MyTable from './MyTable';
+import MyName from './MyName';
+import Foto from './Foto';
+
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+    <MyName/>
     <MyComponent />
+    <MyTable />
+    <Foto />
+
   </React.StrictMode>
 );
 

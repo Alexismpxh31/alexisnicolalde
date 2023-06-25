@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Bienvenido viajero al increible mundo de Teyvat.
         </p>
         <a
           className="App-link"
-          href="https://genshin.hoyoverse.com/es/"
+          href=""
           target="_blank"
           rel="noopener noreferrer"
         >
-          Ven te enseñare un mundo totalmente diferente
+          
         </a>
       </header>
     </div>
